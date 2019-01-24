@@ -196,7 +196,10 @@ button {
 }
 
 .chapo {
-  font-size: 1.6em;
+  font-size: 25px;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+  text-align: center;
 }
 
 .full-width {
@@ -249,14 +252,15 @@ button {
 }
 
 .header__title {
-  font-size: 5.4em;
+  font-size: 64px;
   margin: 0;
+  font-weight: 700;
 }
 
 .header__subtitle {
   margin: 0;
-  font-size: 3.2em;
-  font-weight: 100;
+  font-size: 42px;
+  font-weight: 200;
   text-shadow: 1px 1px 5px #000;
 }
 
@@ -273,6 +277,10 @@ button {
   display: block;
   padding: 10px;
   color: #fff;
+  font-size: 18px;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+
 }
 .nav-main__link:hover {
   text-decoration: none;
@@ -474,4 +482,7 @@ button {
 .index-title {
   text-align: center;
   margin-bottom: 35px;
+  font-size: 64px;
+  font-weight: 200;
+  font-family: 'Montserrat', sans-serif;
 }
