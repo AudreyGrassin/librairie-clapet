@@ -494,3 +494,35 @@ button {
   font-weight: 200;
   font-family: 'Montserrat', sans-serif;
 }
+
+.texte-citation {
+  font-size: 24px;
+  color: #e8a27d;
+  font-weight: 200;
+  font-family: 'Montserrat', sans-serif;
+  border-left: 4px solid grey;
+}  
+
+.author-citation {
+  font-size: 16px;
+  color: #1a1a1a;
+  font-weight: 400;
+  font-family: 'Work Sans', sans-serif;
+  text-align: right;
+}   
+
+.texte-citation2 {
+  font-size: 24px;
+  color: #e8a27d;
+  font-weight: 200;
+  font-family: 'Montserrat', sans-serif;
+  border-left: 4px solid grey;
+}  
+
+.author-citation2 {
+  font-size: 16px;
+  color: #1a1a1a;
+  font-weight: 400;
+  font-family: 'Work Sans', sans-serif;
+  text-align: right;
+}  
