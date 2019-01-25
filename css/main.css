@@ -34,7 +34,7 @@ b, strong, optgroup {
 
 h1 {
   margin: 25px 0;
-  font-size: 4.5em;
+  font-size: 40px;
   font-weight: 700;
 }
 
@@ -92,9 +92,10 @@ button {
 
 .container {
   margin: auto;
-  padding: 0 15px;
+  padding: 0px;
   width: 960px;
   max-width: 100%;
+  text-align: center;
 }
 
 .text-container {
@@ -227,7 +228,7 @@ button {
   width: 960px;
   height: 350px;
   background: url("../img/background.jpg");
-  background-size: cover;
+  background-size: 960px;
   background-position: center bottom;
   overflow: hidden;
 }
@@ -238,7 +239,7 @@ button {
   margin: 0;
   position: absolute;
   padding-top: 20px;
-  padding-bottom: 25px;
+  padding-bottom: 18px;
   bottom: 0;
   width: 100%;
   text-align: center;
@@ -253,12 +254,12 @@ button {
 
 .header__title {
   font-size: 64px;
-  margin: 0;
+  margin: 32;
   font-weight: 700;
 }
 
 .header__subtitle {
-  margin: 0;
+  margin: auto;
   font-size: 42px;
   font-weight: 200;
   text-shadow: 1px 1px 5px #000;
@@ -266,7 +267,7 @@ button {
 
 
 .header__nav {
-  background-color: rgba(0, 0, 0, 0.85);
+  background-color:#1a1a1a;
 }
 
 .nav-main__item {
@@ -275,7 +276,7 @@ button {
 
 .nav-main__link {
   display: block;
-  padding: 10px;
+  padding: 7px;
   color: #fff;
   font-size: 18px;
   font-family: 'Work Sans', sans-serif;
