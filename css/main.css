@@ -199,7 +199,9 @@ button {
   font-size: 25px;
   font-family: 'Work Sans', sans-serif;
   font-weight: 400;
-  text-align: justify;
+  text-align: center;
+  margin-top: 76px;
+  margin-bottom: 50px;
 }
 
 .full-width {
@@ -558,3 +560,11 @@ button {
   font-family: 'Work Sans', sans-serif;
   font-weight: 400;
 }  
+
+.nous-trouver {
+  font-size: 64px;
+  font-family: 'Montserrat';
+  font-weight: 200;
+  margin-top: 52.2px;
+  margin-bottom: 57px;
+}   
