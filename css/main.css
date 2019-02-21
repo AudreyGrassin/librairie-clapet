@@ -200,7 +200,7 @@ button {
   font-size: 25px;
   font-family: 'Work Sans', sans-serif;
   font-weight: 400;
-  text-align: center;
+  text-align: justify;
 }
 
 .full-width {
@@ -500,6 +500,7 @@ button {
   font-weight: 200;
   font-family: 'Montserrat', sans-serif;
   border-left: 4px solid grey;
+  padding-left: 20px;
 }  
 
 .author-citation {
@@ -516,6 +517,7 @@ button {
   font-weight: 200;
   font-family: 'Montserrat', sans-serif;
   border-left: 4px solid grey;
+  padding-left: 20px;
 }  
 
 .author-citation2 {
@@ -525,3 +527,15 @@ button {
   font-family: 'Work Sans', sans-serif;
   text-align: right;
 }  
+
+.colonnes {
+  display: flex;
+}   
+
+.colonne-image {
+  min-width: 50%;
+}   
+
+.petit-texte {
+  font-size: 20px
+}   
