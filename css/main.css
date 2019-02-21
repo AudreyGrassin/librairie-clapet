@@ -295,9 +295,10 @@ button {
 .separator {
   display: block;
   margin: 50px auto;
-  width: 200px;
+  width: 193.2px;
+  height: 51.8px;
   border: none;
-  background-color: #d9d9d9;
+  background-color: #ffffff;
 }
 
 
