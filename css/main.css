@@ -430,6 +430,7 @@ button {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: auto;
   margin-bottom: 35px;
+  width:1200px;
 }
 
 .news-list .news-list__news--main {
@@ -632,6 +633,7 @@ button {
   grid-template-rows: auto;
   margin-bottom: 35px;
   border-bottom: 1px grey solid;
+  width:1200px;
 }
 
 .news-big {
@@ -644,6 +646,7 @@ grid-column: span 2;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: auto;
   margin-bottom: 35px;
+  width:1200px;
 }
 
 
@@ -657,6 +660,7 @@ grid-column: span 2;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: auto;
     margin-bottom: 35px;
+    width:1200px;
   }
 
 .news-list-gros {
@@ -687,6 +691,7 @@ grid-column: span 2;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: auto;
   margin-bottom: 35px;
+  width:1200px;
 }
 
 .news__date-actu {
