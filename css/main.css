@@ -92,7 +92,7 @@ button {
 .container {
   margin: auto;
   padding: 0px;
-  width: 960px;
+  width: 1200px;
   max-width: 100%;
   text-align: center;
 }
@@ -299,7 +299,7 @@ button {
 
 .honey-pot-list {
   text-align: center;
-  display: flex;
+ 
 }
 
 .honey-pot {
