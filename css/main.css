@@ -379,6 +379,7 @@ button {
   color: #e8a27d;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
+  text-align: left;
 }
 
 .news__title {
@@ -387,6 +388,7 @@ button {
   font-size: 24px;
   line-height: 1.4;
   font-family: 'Montserrat', sans-serif;
+  text-align: left;
 }
 
 .news__text {
@@ -395,6 +397,7 @@ button {
   line-height: 1.4;
   font-weight: 400;
   font-family: 'Work Sans', sans-serif;
+  text-align: left;
 }
 
 .page-list .news {
@@ -605,6 +608,7 @@ button {
   font-size: 34px;
   line-height: 1.4;
   font-family: 'Montserrat', sans-serif;
+  text-align: left;
 }
 
 .news__text-first {
@@ -613,6 +617,7 @@ button {
   line-height: 1.4;
   font-weight: 400;
   font-family: 'Work Sans', sans-serif;
+  text-align: left;
 }
 
 .ligne-separateur {
@@ -626,9 +631,36 @@ button {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: auto;
   margin-bottom: 35px;
+  border-bottom: 1px grey solid;
 }
 
 .news-big {
 grid-column: span 2;
 }
 
+.actualite-liste-first {
+  display: grid;
+  grid-gap: 35px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+  margin-bottom: 35px;
+}
+
+.news-big-actu {
+  grid-column: span 2;
+  }
+
+.news__thumbnail-actu {
+  grid-column: span 2;
+  }
+
+.actualite-list {
+    display: grid;
+    grid-gap: 35px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    margin-bottom: 35px;
+  }
+.news-list-gros {
+  grid-column: span 2;
+  }
